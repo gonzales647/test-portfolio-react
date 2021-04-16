@@ -28,6 +28,12 @@
   
 
 }
+.nav {
+  border-radius: 40%;
+  padding: 10px;
+  border-left: 4px groove cadetblue;
+  border-right: 4px ridge cadetblue;
+}
 
 .navbar .links {
   display: contents;
