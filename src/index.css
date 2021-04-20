@@ -19,7 +19,7 @@
 }
 
 .navbar h1 {
-  color: #5c95b6;        
+  /* color: #5c95b6;         */
   border-radius: 40%;
   padding: 10px;
   border-left: 4px groove cadetblue;
@@ -28,6 +28,7 @@
   
 
 }
+
 .nav {
   border-radius: 40%;
   padding: 10px;
@@ -54,4 +55,13 @@
   max-width: 600px;
   margin: 40px auto;
   padding: 20px;
+}
+
+/* HomePage */
+
+
+img {
+  height: 40%;
+  width: 25%; 
+  
 }
